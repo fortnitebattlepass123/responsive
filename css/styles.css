@@ -1,0 +1,22 @@
+img {
+    
+    width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 source: https://stackoverflow.com/questions/16217355/automatically-resize-images-with-browser-size-using-css*/
+    border-radius: 12%;
+
+    
+}
+
+img:hover{
+    cursor: pointer;
+}
+
+
+figcaption{
+    color: #5A96DD;
+    text-decoration: underline;
+}
+figcaption:hover{
+    cursor: pointer;
+}
